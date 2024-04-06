@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to the Taskbun React Web Application! This web application empowers users to efficiently manage their daily tasks. With a user-friendly interface, Taskbun ensures a seamless task management experience. Before diving in, make sure you have the Firebase JavaScript SDK set up for authentication and data storage.
+Welcome to the Taskbun React Web Application! This web application empowers users to efficiently manage their daily tasks. With a user-friendly interface, Taskbun ensures a seamless task management experience. Before diving in, make sure you have the Firebase JavaScript SDK set up for authentication and data storage. You have access [Taskbun Application](https://taskbun.netlify.app/) to manage your daily tasks.
 
 ## Prerequisites
 
