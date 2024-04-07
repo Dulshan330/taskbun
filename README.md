@@ -38,7 +38,7 @@ Before you proceed, ensure you have the following prerequisites installed and se
      ```
    - Configure Firebase in your project by adding your Firebase configuration details in the appropriate files.
 
-4. Update your project information in firebase.js file:
+4. Update your firebase project information in firebase.js file:
 
    ```
    apiKey: "your API key",
