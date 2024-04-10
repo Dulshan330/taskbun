@@ -66,4 +66,8 @@ Once the application is running, you can start managing your tasks. Use the intu
 
 We welcome contributions to Taskbun! Whether you want to report bugs, suggest enhancements, or contribute code, feel free to open issues or submit pull requests.
 
+## Author
+
+[Dulshan Senadheera](https://dulshansenadheera.me/)
+
 ---
